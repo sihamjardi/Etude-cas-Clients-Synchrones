@@ -1,4 +1,5 @@
-# 📄 README — TP Clients synchrones avec Eureka et Consul
+# 📄 Étude de cas : Clients Synchrones (RestTemplate vs Feign vs WebClient) avec Eureka et Consul
+
 
 ---
 
@@ -258,4 +259,5 @@ Eureka et Consul fonctionnent avec les mêmes endpoints.
 **Date :** Janvier 2026
 
 **Encadré par :** Pr.Mohamed LACHGAR
+
 
